@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#container {
+    padding: 10px;
+    width: 700px;
+    height: 80%;
+    background-color: hsl(0, 0%, 100%);
+}
+#track {
+    width: 700px;
+    border-bottom: 2px solid black;
+    margin: 20px auto;
+}
+#train {
+    height: 92px;
+    width: 100px;
+    position: relative;
+    left: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#stopButton {
+    border-radius: 10px;
+    padding-top: 15px;
+    margin: 10px auto;
+    background-color: rgb(180, 177, 177);
+    width: 100px;
+    height: 50px;
+    color: black;
+    text-align:center;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 30px;
+}
